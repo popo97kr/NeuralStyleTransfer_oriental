@@ -45,7 +45,7 @@ CycleGAN을 사용한 Neural Style Transfer: 수묵화를 중심으로
 
 ### Website
 
-- 최종적으로 누구나 자신의 사진를 집어넣어 동양화로 변환된 이미지를 생성받을 수 있도록 하는 웹사이트를 구축하였다.
+- 최종적으로 누구나 자신의 사진를 집어넣어 동양화로 변환된 이미지를 생성받을 수 있도록 image translation 웹사이트를 구축하였다.
 - Framework used: **Django**
 
 Website Preview)
