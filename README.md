@@ -18,6 +18,7 @@ CycleGAN을 사용한 Neural Style Transfer: 수묵화를 중심으로
 - generator_final.json : saved model structure of cyclegan
 - generator_final.h5 : saved model weights of cyclegan
 - django : website files for photo-translation-to-oriental service
+  - framework used : **Django**
 
 ## Training Process
 
